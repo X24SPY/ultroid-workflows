@@ -1,6 +1,6 @@
 # HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS
 
-[TELEGRAM](https://img.shields.io/badge/SILENT%20X-738BD7.svg?style=for-the-badge)](https://t.me/MUSIC_WORLD_X)
+[![TELEGRAM](https://img.shields.io/badge/SILENT%20X-738BD7.svg?style=for-the-badge)](https://t.me/MUSIC_WORLD_X)
 
 # ULTROID WORKFLOWS
 REPO CLICK [UlROID](https://github.com/SILENTXWORLD/ultroid-workflows)
